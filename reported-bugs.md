@@ -1,6 +1,6 @@
 
 
-### The following two tables record the details of all reported bugs found by CCOPT.
+### The following two tables record the details of all reported bugs found by CCOPT (Update by 2021-12-01).
 
 ### GCC bugs
 
