@@ -1,2 +1,2 @@
-# CCOPT
-Detecting C++ Parser Bugs via Structure-aware Mutation and Differential Testing
+# CCOFT
+Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing
